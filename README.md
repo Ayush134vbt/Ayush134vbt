@@ -1,7 +1,7 @@
 
 ## 👋 Hi there, I’m Ayush
 
-I’m a **Data Scientist student** with a strong foundation in **Psychological Science**, interested in how data can be used to understand human behaviour, decision-making, and real-world systems.
+I’m a **Data Science student** with a strong foundation in **Psychological Science**, interested in how data can be used to understand human behaviour, decision-making, and real-world systems.
 
 I build projects that combine **statistics, machine learning, and programming** to extract insights from data and communicate them clearly.
 
