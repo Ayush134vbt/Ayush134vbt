@@ -1,11 +1,9 @@
 
 ## 👋 Hi there, I’m Ayush
 
-I’m a **Data Science student** with a strong foundation in **Psychological Science**, interested in how data can be used to understand human behaviour, decision-making, and real-world systems.
+I’m a **Data Science student** with a strong foundation in **Psychological Science**, interested in how data can be used to understand human behaviour, decision-making, and real-world systems. I build projects that combine **statistics, machine learning, and programming** to extract insights from data and communicate them clearly.
 
-I build projects that combine **statistics, machine learning, and programming** to extract insights from data and communicate them clearly.
-
-### 🛠️ Technical Skills
+### Technical Skills
 
 - **Programming:** Python, R, SQL  
 - **Data Analysis & Machine Learning:** Pandas, NumPy, scikit-learn  
@@ -13,8 +11,7 @@ I build projects that combine **statistics, machine learning, and programming** 
 - **Cloud:** AWS (Certified Cloud Practitioner)  
 - **Core Concepts:** Statistical analysis, data cleaning, feature engineering, model evaluation  
 
-### 📁 Projects
-
+### Projects
 This GitHub contains projects focused on:
 - Exploratory Data Analysis (EDA)
 - Predictive modelling and machine learning
@@ -22,12 +19,5 @@ This GitHub contains projects focused on:
 - Data storytelling and visualisation
 
 Each project includes **clear explanations**, **well-commented code**, and **reproducible workflows**.
-
-### 🎯 Interests
-
-- Data-driven decision making  
-- Behavioural data and psychology  
-- Applied machine learning  
-- Solving real-world problems with data  
 
 Thanks for stopping by!
