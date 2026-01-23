@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**Ayush134vbt/Ayush134vbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I’m Ayush
 
-Here are some ideas to get you started:
+### 📊 Data Science student | Psychology background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a **Data Scientist student** with a strong foundation in **Psychological Science**, interested in how data can be used to understand human behaviour, decision-making, and real-world systems.
+
+I build projects that combine **statistics, machine learning, and programming** to extract insights from data and communicate them clearly.
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, R, SQL  
+- **Data Analysis & Machine Learning:** Pandas, NumPy, scikit-learn  
+- **Data Visualisation:** Matplotlib, Seaborn  
+- **Cloud:** AWS (Certified Cloud Practitioner)  
+- **Core Concepts:** Statistical analysis, data cleaning, feature engineering, model evaluation  
+
+### 📁 Projects
+
+This GitHub contains projects focused on:
+- Exploratory Data Analysis (EDA)
+- Predictive modelling and machine learning
+- Applied statistics
+- Data storytelling and visualisation
+
+Each project includes **clear explanations**, **well-commented code**, and **reproducible workflows**.
+
+### 🎯 Interests
+
+- Data-driven decision making  
+- Behavioural data and psychology  
+- Applied machine learning  
+- Solving real-world problems with data  
+
+Thanks for stopping by!
